@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 6rem;
+}
+
+.box_shadow {
+  box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+}
+
+.box_shadow2 {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.activ_but {
+  background-color: #7b3306;
+  color: #ffffff;
+}
+
+.apply_button {
+  background-color: #7b3306;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 0.5em 1.5em;
+  font-size: 1em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.job_container> div:hover {
+  background-color: #7b3306;
+  color: #ffffff;
+}
+
+.job_container> button:hover {
+  background-color: black;
+  color: #ffffff;
+}
+
+.avtiv_but:hover {
+  background-color: #7b3306;
+}
+
+.active_but2 {
+  background-color: #213547;
+  color: #ffffff;
+}
+.active_but2:hover {
+  background-color: #213547;
+}
+
+.flex_item > h1 {
+  margin-top: 100px;
+}
+
+.flex_item > p {
+  margin-top: 15px;
+}
+
+.flexitem {
+  align-self: flex-end;
+}
+
+.hero_search {
+  margin-top: 20px;
+  padding: 20px 20px;
+}
+
+.hero_search > input {
+  padding-left: 7px;
+}
+
+.hero_search > select {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+
+
+
+
+button {
+  border-radius: 8px;
+  font-size: 1em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  padding: 0.2em 1.5em;
+}
+button:hover {
+  background-color: #101828;
+  color: #ffffff;
+  border: none;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: oklch(55.5% 0.163 48.998);
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
