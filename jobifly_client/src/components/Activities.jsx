@@ -3,7 +3,7 @@ import { assets, activities_data } from '../assets/assets'
 
 function Activities() {
   return (
-    <div className='bg-amber-900 w-[100%] h-[50vh]'>
+    <div className='bg-amber-900 w-[100%] h-[50vh] py-40'>
       <div className='container flex text-black h-full items-center gap-10'>
         <div className='w-4/12  bg-amber-50 py-10 px-10'>
           <h4 className='mb-4 text-3xl font-bold'>Browse Popular Jobs</h4>

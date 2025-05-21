@@ -1,11 +1,29 @@
 import hero_img from '../assets/Hero.png'
 import logo from '../assets/logo.png'
 import google from '../assets/google.png'
+import about_img from '../assets/aboutImg.jpg'
+import testimonial from '../assets/testimonial.jpg'
+import googleLogo from '../assets/Google_2015_logo.svg.png'
+import indeed from '../assets/indeed-Logo-2004.png'
+import slack from '../assets/Slack-logo.png'
+import walmart from '../assets/walmart.png'
+import upwork from '../assets/Upwork-logo.svg.png'
+import logo_white from '../assets/logo-white.png'
+
+
 
 export const assets = {
     hero_img,
     logo,
-    google
+    google,
+    about_img,
+    testimonial,
+    googleLogo,
+    indeed,
+    slack,
+    walmart,
+    upwork,
+    logo_white
 }
 
 export const nav_data = [
