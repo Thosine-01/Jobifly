@@ -99,6 +99,11 @@
   width: 10%;
 }
 
+.job_hero {
+  background-image: url('./assets/5592275.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
 
 /*This is for the swiper componnets'*/
 /*.swiper {

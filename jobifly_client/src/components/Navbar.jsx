@@ -1,10 +1,11 @@
 import React from 'react'
 import {assets, nav_data} from '../assets/assets'
 import { LogIn } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
   return (
-    <nav className='container box_shadow flex justify-between items-center h-20 relative z-30'>
+    <nav className='container box_shadow flex justify-between items-center h-20  z-30 relative'>
       <div className='flex items-center gap-3'>
           <img src={assets.logo} className='w-10 h-10'/>
           <h4 className='font-semibold'>Jobi<span className='text-amber-700'>Fly</span></h4>
@@ -14,7 +15,7 @@ function Navbar() {
         <ul className='flex gap-10 font-semibold'>
           {nav_data.map((item) => (
               <li key={item.id}>
-                  <a href="#">{item.title}</a>
+                  <Link to={item.link}>{item.title}</Link>
               </li>
           ))}
         </ul>
