@@ -15,8 +15,8 @@ function Activities() {
           </div>
         </div>
         <div className='w-8/12 flex gap-4'>
-        {activities_data.map((item) => (
-          <div className='bg-amber-50 py-10 px-6 rounded-md'>
+        {activities_data.map((item, index) => (
+          <div key={index} className='bg-amber-50 py-10 px-6 rounded-md'>
             <h1 className='bg-amber-200 inline-block py-3 px-5 '>{item.icon}</h1>
             <h4 className='mt-5 font-bold'>{item.title}</h4>
             <p className='mt-2'>{item.text}</p>

@@ -105,6 +105,11 @@
   background-size: 100% 100%;
 }
 
+.nav-button:hover {
+  background: oklch(55.5% 0.163 48.998);
+  color: #ffffff;
+}
+
 /*This is for the swiper componnets'*/
 /*.swiper {
   width: 100%;
@@ -125,7 +130,7 @@
 
 
 
-button {
+/*button {
   border-radius: 8px;
   font-size: 1em;
   font-weight: 500;
@@ -142,7 +147,7 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
-}
+}*/
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -152,7 +157,5 @@ button:focus-visible {
   a:hover {
     color: oklch(55.5% 0.163 48.998);
   }
-  button {
-    background-color: #f9f9f9;
-  }
+
 }

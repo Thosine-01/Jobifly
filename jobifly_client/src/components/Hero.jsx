@@ -15,12 +15,12 @@ function Hero() {
                  
                     <select name="" id="" placeholder="Select Location" className='bg-white rounded-md w-5/12 outline-0 pl-6'>    
                       <option value="volvo">Select Location</option>
-                      <option value="saab">Lagos</option>
-                      <option value="opel">Abuja</option>
-                      <option value="audi">Remote</option>
+                      <option value="saab">Nigeria</option>
+                      <option value="opel">United Kingdom</option>
+                      <option value="audi">United State</option>
                     </select>
              
-                  <button className='bg-amber-700 text-amber-900 p-2 rounded-md w-2/12'>Search</button>
+                  <button className='bg-amber-50 text-amber-900 p-2 rounded-md w-2/12'>Search</button>
                 </div>
             </div>
             <div className='flexitem'>

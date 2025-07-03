@@ -1,13 +1,32 @@
-import React from 'react'
+import React, { useContext, useEffect, useState } from 'react'
 import JobCard from './JobCard'
-import {assets, jobs_data_list} from '../assets/assets'
+import {Jobss} from '../assets/assets'
+import { JobContext } from '../context/JobContext';
+
 
 const JobCardGrid = () => {
+  const {data} = useContext(JobContext);
+  //console.log(data)
+  //const [filteredJobs, setFilteredJobs] = useState()
+
+  /*useEffect(() => {
+    setFilteredJobs(data.slice(0,10))
+  },[])*/
+
+  console.log(Jobss)
+
   return (
-        <div className="grid md:grid-cols-2 gap-6">
-      {jobs_data_list.map((item, idx) => (
-        <JobCard key={idx} item={item}/>
+      <div className="grid md:grid-cols-2 gap-16">
+      {Jobss.map((item, idx) => (
+        <JobCard key={idx} Id={item.id} client_country={item.client_country} client_city={item.client_city} category_group={item.category_group} title={item.title} skills={item.skills} label={item.label} project_budget_total={item.project_budget_total}/>
       ))}
+
+
+      {/*{
+        filteredJobs.map((item, index) => (
+          <JobCard key={index} item={item} />
+        ))
+      }*/}
     </div>
   )
 }

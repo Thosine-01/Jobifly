@@ -19,7 +19,7 @@ function Navbar() {
               </li>
           ))}
         </ul>
-        <button className='px-5 border-1 border-amber-700 text-amber-700 hover:bg-gray-900 flex items-center gap-2'><LogIn size={18}/>Sign In</button>
+        <Link to={'/login'}><button className='nav-button px-5 py-1 border-1 border-amber-700 text-amber-700 hover:bg-gray-900 flex items-center gap-2 rounded-lg'><LogIn size={18}/>Sign In</button></Link>
       </div>
 
 

@@ -1,0 +1,198 @@
+id:2361615,
+title:"PowerPoint Designer to professionalise an existing deck of slides",
+date_posted:"2025-06-23T09:52:44.508+00:00",
+locations: {} 0 keys
+url:"https://www.upwork.com/jobs/~021937086116687322796",
+category:"Graphic, Editorial & Presentation Design",
+category_group:"Design & Creative",
+engagement_duration:{} 6 keys
+id:"474250516458926083",
+rid:4,
+ctime:"2014-06-04T17:59:10.123Z",
+label:"Less than 1 month",
+mtime:"2014-06-04T17:59:10.123Z",
+weeks:3, 
+skills:
+0: {}
+id:"1356688408886644736",
+name:"Chart Presentation",
+1:{}
+id:"1052162208890146823",
+name:"Data Visualization",
+2: {}
+id:"1052162208890146825",
+name:"Branding Template",
+3: {}
+id:"1356688478755360768",
+name:"Minor Design Touchup",
+4: {}
+id:"1045317677264961536",
+name:"PPTX",
+5: {}
+id:"1031626747748532224",
+name:"Infographic",
+6: {}
+id:"1031626759027015680",
+name:"Microsoft PowerPoint",
+7: {}
+id:"1052162208890146827",
+name:"Business Presentation",
+8: {}
+id:"1031626770443911168",
+name:"Presentation Design",
+9: {}
+id:"1031626742929276928",
+name:"Graphic Design",
+project_budget_total:900,
+project_budget_hourly_min:null,
+project_budget_hourly_max:null,
+project_budget_currency:"USD",
+languages:{} 0
+additional_qualifications:,
+type:"ANY",
+prefEnglishSkill:"ANY",
+number_of_positions_to_hire:1,
+client_country:"GBR",
+client_city:"London",
+client_timezone:"Africa/Casablanca (UTC+01:00)",
+client_total_assignments:4,
+client_active_assignments:2,
+client_total_hours:null,
+client_total_charges:537.8,
+client_feedback_count:2,
+client_score:5,
+client_jobs_with_hires:4,
+client_company_size:null,
+client_company_industry:null,
+client_open_jobs:1,
+description_text:"We’re looking for an experienced freelance designer and PowerPoint specialist to professionalise an existing introductory slide deck for a It services company. The content and branding (including logo and colour palette) are already in place. We need help elevating the excellence and visual quality of the slides and creating a clean, consistent set of master slides behind the deck for future use. We would like the PowerPoint to be visualised as a large cap brochure. Scope of Work: Polish and professionalise approx. 25 slides in line with our brand Enhance layout, flow, and readability Apply consistent typography, colours, and formatting Add subtle visual design elements, icons or graphics where appropriate Build out a branded master slide template for future internal use (title, content, section divider, etc.) Requirements: Strong portfolio of polished corporate or B2B slide decks Advanced PowerPoint skills Experience creating master slide templates Familiarity with tech / security industries is a plus High attention to detail and clean design aesthetic Timeline: As soon as possible"
+
+
+Set that i am working with:
+category_group:
+url
+
+
+{
+    id: 1,
+    client_country: 'GBR',
+    client_city: 'London',
+    category_group: 'Design and Graphics'
+    title: 'PowerPoint Designer to professionalise an existing deck of slides',
+    skills: 'HTML'
+    label: 'less than one month'
+    project_budget_total: '900'
+}
+
+
+
+job_id:"VnVsqdlLW-S4XAiNAAAAAA=="
+employer_name:"United Airlines"
+employer_logo:null
+employer_website:"https://www.united.com"
+employer_company_type:null
+employer_linkedin:null
+job_publisher:"United Airlines Jobs"
+job_employment_type:"FULLTIME"
+job_employment_types:
+0:"FULLTIME"
+job_employment_type_text:"Full-time"
+job_title:"Software Developer"
+job_apply_link:"https://careers.united.com/us/en/job/WHQ00024224/Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+job_apply_is_direct:false
+job_apply_quality_score:null
+apply_options:0:
+publisher:"United Airlines Jobs"
+apply_link:"https://careers.united.com/us/en/job/WHQ00024224/Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+1:
+publisher:"Indeed"
+apply_link:"https://www.indeed.com/viewjob?jk=f9f3e24699cc8d63&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+2:
+publisher:"Dice.com"
+apply_link:"https://www.dice.com/job-detail/41e3f2e4-d2fd-47ee-aef5-b3ed0c75b31c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+3:
+publisher:"LinkedIn"
+apply_link:"https://www.linkedin.com/jobs/view/software-developer-at-united-airlines-4027614589?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+4:
+publisher:"OPTnation"
+apply_link:"https://www.optnation.com/software-developer-job-in-chicago-il-view-jobid-34184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+5:
+publisher:"Jooble"
+apply_link:"https://jooble.org/jdp/-3363270440742672894?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+6:
+publisher:"Adzuna"
+apply_link:"https://www.adzuna.com/details/4804695397?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+7:
+publisher:"SitePoint"
+apply_link:"https://www.sitepoint.com/jobs-for-developers/skillstorm/software-developer-793518/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+is_direct:false
+job_description:"Description There’s never been a more exciting time to join United Airlines. We’re on a path towards becoming the best airline in the history of aviation. Our shared purpose – Connecting People, Uniting the World – is about more than getting people from one place to another. It also means that as a global company that operates in hundreds of locations around the world with millions of customers and tens of thousands of employees, we have a unique responsibility to uplift and provide opportunities in the places where we work, live and fly, and we can only do that with a truly diverse and inclusive workforce. And we’re growing – in the years ahead, we’ll hire tens of thousands of people across every area of the airline. Our careers include a competitive benefits package aimed at keeping you happy, healthy and well-traveled. From employee-run "Business Resource Group" communities to world-class benefits like parental leave, 401k and privileges like space available travel, United is truly a one-of-a-kind place to work. Are you ready to travel the world? We believe that inclusion propels innovation and is the foundation of all that we do. United's Digital Technology team spans the globe and is made up of diverse individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions. Key Responsibilities: United's Revenue Management team is growing and we are seeking a Software Developer to come join us! The Software Developer plays an important role in creating and maintaining the strategic partnership between business needs and technology delivery. The Developer's role is to plan, design, develop and launch efficient systems and solutions in support of core organizational functions. This individual will utilize effective communication, analytical, and problem-solving skills to help identify, communicate / resolve issues, opportunities, or problems to maximize the benefit of IT and Business investments. The Developer is experienced and self - sufficient in performing their responsibilities requiring little supervision, but general guidance and direction. This is a hybrid role at United’s headquarters based in Chicago Office, Willis Tower. • Assist in design, develop and modify software applications/systems • Collaborates with cross-functional teams to understand business requirements and deliver solutions • Provides support to the software development leads (Ex: Senior Developer) • Works on one or more moderate to complex projects • Applies security code best practices throughout development cycle • Contributes to software documentation and user manuals • Complete comprehensive unit testing on all developed/enhanced software and supports deployment of software application • Participates in code reviews to ensure code adheres to standards • Support and troubleshoot software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions • Stays up to date on the latest industry trends and technology United values diverse experiences, perspectives, and we encourage everyone who meets the minimum qualifications to apply. While having the “desired” qualifications make for a stronger candidate, we encourage applicants who may not feel they check ALL of those boxes! We are always looking for individuals who will bring something new to the table! Qualifications What’s needed to succeed (Minimum Qualifications): • Bachelor's degree in Computer science, software engineering, or related field • 3+ years of experience in a similar role • Proficient in a coding language and building back-end components • Problem solving • Attention to detail • Effective Communication (verbal + written) • Demonstrates and eagerness to learn • Demonstrate advanced knowledge of SDLC processes, inputs/outputs, standards and best practices • Demonstrate advance knowledge of development methodologies, software design and design patterns • Demonstrate advance knowledge of the application of development domain areas and specific technologies and tool set • Must be legally authorized to work in the United States for any employer without sponsorship • Successful completion of interview required to meet job qualification • Reliable, punctual attendance is an essential function of the position What will help you propel from the pack (Preferred Qualifications): • Cloud technologies (i.e., Azure, AWS) • Exposure to APPD & Dynatrace • Agile Methodologies • .Net, C, C++, C#, Java • HTML, Java Script (Angular 2.0, JS), CSS • SQL, Oracle Experience, Relational DB Experience • Code Repositories like TFS • Microsoft Office tools, PowerPoint, Excel • Chef/Ansible, Configuration tools • Dev Ops Experience • Infrastructure knowledge • Windows Server 2012 • UI Analytics (Google Analytics) • Continuous Integration & Continuous Deployment • Mobile Technologies • Exposure to Couchbase NoSQL D United Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT"
+job_is_remote:false
+job_posted_human_readable:"1 day ago"
+job_posted_at_timestamp:1732492800
+job_posted_at_datetime_utc:"2024-11-25T00:00:00.000Z"
+job_location:"Chicago, IL"
+job_city:"Chicago"
+job_state:"Illinois"
+job_country:"US"
+job_latitude:41.8781136
+job_longitude:-87.6297982
+job_benefits:
+0:"health_insurance"
+job_google_link:"https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVnVsqdlLW-S4XAiNAAAAAA%3D%3D&vssid=jobs-detail-viewer"
+job_offer_expiration_datetime_utc:null
+job_offer_expiration_timestamp:null
+job_required_experience:
+no_experience_required:false
+required_experience_in_months:null
+experience_mentioned:false
+experience_preferred:false
+job_salary:null
+job_min_salary:null
+job_max_salary:null
+job_salary_currency:null
+job_salary_period:null
+job_highlights:Qualifications:
+0:"Bachelor's degree in Computer science, software engineering, or related field"
+1:"3+ years of experience in a similar role"
+2:"Proficient in a coding language and building back-end components"
+3:"Problem solving"
+4:"Attention to detail"
+5:"Effective Communication (verbal + written)"
+6:"Demonstrates and eagerness to learn"
+7:"Demonstrate advanced knowledge of SDLC processes, inputs/outputs, standards and best practices"
+8:"Demonstrate advance knowledge of development methodologies, software design and design patterns"
+9:"Demonstrate advance knowledge of the application of development domain areas and specific technologies and tool set"
+10:"Must be legally authorized to work in the United States for any employer without sponsorship"
+11:"Successful completion of interview required to meet job qualification"
+12:"Reliable, punctual attendance is an essential function of the position"
+Responsibilities:
+0:"The Software Developer plays an important role in creating and maintaining the strategic partnership between business needs and technology delivery"
+1:"The Developer's role is to plan, design, develop and launch efficient systems and solutions in support of core organizational functions"
+2:"This individual will utilize effective communication, analytical, and problem-solving skills to help identify, communicate / resolve issues, opportunities, or problems to maximize the benefit of IT and Business investments"
+3:"The Developer is experienced and self - sufficient in performing their responsibilities requiring little supervision, but general guidance and direction"
+4:"This is a hybrid role at United’s headquarters based in Chicago Office, Willis Tower"
+5:"Assist in design, develop and modify software applications/systems"
+6:"Collaborates with cross-functional teams to understand business requirements and deliver solutions"
+7:"Provides support to the software development leads (Ex: Senior Developer)"
+8:"Works on one or more moderate to complex projects"
+9:"Applies security code best practices throughout development cycle"
+10:"Contributes to software documentation and user manuals"
+11:"Complete comprehensive unit testing on all developed/enhanced software and supports deployment of software application"
+12:"Participates in code reviews to ensure code adheres to standards"
+13:"Support and troubleshoot software systems as required, optimizing performance, resolving problems, and providing follow-up on all issues and solutions"
+14:"Stays up to date on the latest industry trends and technology"
+job_job_title:null
+job_posting_language:null
+job_onet_soc:"15113200"
+job_onet_job_zone:"4"
+job_occupational_categories:null
+job_naics_code:null
+job_naics_name:null
