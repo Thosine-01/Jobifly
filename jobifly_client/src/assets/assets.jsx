@@ -21,6 +21,18 @@ import upworklogo from '../assets/upwork-roundedsquare-1.svg'
 import loggingImg from '../assets/logingImage.jpg'
 import githubLogo from '../assets/GitHublogo.png'
 import linkedinlogo from '../assets/linkedinlogo.png'
+import loader from '../assets/loader.gif'
+import dropbox_icon from '../assets/dropbox_icon.png'
+import Fedex_logo from '../assets/Fedex_logo.png'
+import hubspot_logo from '../assets/hubspot_logo.png'
+import airbnb_logo from '../assets/airbnb_logo.png'
+import cyber_security from '../assets/cyber_security.png'
+import artifical_i from '../assets/artifical_i.png'
+import web_dev_icon from '../assets/web_dev_icon.png'
+import blog_1 from '../assets/blog_1.jpg'
+import blog_2 from '../assets/blog_2.jpg'
+import blog_3 from '../assets/blog_3.jpg'
+
  
 import { Stethoscope } from 'lucide-react';
 import { FolderCode } from 'lucide-react';
@@ -30,6 +42,88 @@ import { Mail } from 'lucide-react';
 import { Phone } from 'lucide-react';
 
 
+export const categories = ["Design", "Marketing", "Service", "Health Care", "Writing"]
+
+export const featured_jobs = [
+  {
+    id: "1",
+    title: "Project Manager",
+    company: "Rockstar Games New York",
+    location: "Las Vegas, NV 89107, USA",
+    postedDate: "2 days ago",
+    salaryRange: "$83,000 - $110,000/year",
+    jobType: "Full-time",
+    remote: true,
+    category: "Design",
+    logoUrl: "/logos/rockstar.png",
+    daysLeft: 22
+  },
+  {
+    id: "2",
+    title: "Project Manager",
+    company: "Rockstar Games New York",
+    location: "Las Vegas, NV 89107, USA",
+    postedDate: "2 days ago",
+    salaryRange: "$83,000 - $110,000/year",
+    jobType: "Full-time",
+    remote: true,
+    category: "Design",
+    logoUrl: "/logos/rockstar.png",
+    daysLeft: 22
+  },
+  {
+    id: "3",
+    title: "Senior UI/UX Designer",
+    company: "Rockstar Games New York",
+    location: "Las Vegas, NV 89107, USA",
+    postedDate: "2 days ago",
+    salaryRange: "$83,000 - $110,000/year",
+    jobType: "Freelancer",
+    remote: true,
+    category: "Design",
+    logoUrl: "/logos/rockstar2.png",
+    daysLeft: 22
+  },
+  {
+    id: "4",
+    title: "Senior UI/UX Designer",
+    company: "Rockstar Games New York",
+    location: "Las Vegas, NV 89107, USA",
+    postedDate: "2 days ago",
+    salaryRange: "$83,000 - $110,000/year",
+    jobType: "Freelancer",
+    remote: true,
+    category: "Design",
+    logoUrl: "/logos/rockstar2.png",
+    daysLeft: 22
+  },
+  {
+    id: "5",
+    title: "Senior UI/UX Designer",
+    company: "Rockstar Games New York",
+    location: "Las Vegas, NV 89107, USA",
+    postedDate: "2 days ago",
+    salaryRange: "$83,000 - $110,000/year",
+    jobType: "Freelancer",
+    remote: true,
+    category: "Design",
+    logoUrl: "/logos/rockstar2.png",
+    daysLeft: 22
+  },
+  {
+    id: "6",
+    title: "Senior UI/UX Designer",
+    company: "Rockstar Games New York",
+    location: "Las Vegas, NV 89107, USA",
+    postedDate: "2 days ago",
+    salaryRange: "$83,000 - $110,000/year",
+    jobType: "Freelancer",
+    remote: true,
+    category: "Design",
+    logoUrl: "/logos/rockstar2.png",
+    daysLeft: 22
+  },
+]
 
 export const assets = {
     hero_img,
@@ -54,9 +148,128 @@ export const assets = {
     upworklogo,
     loggingImg,
     githubLogo,
-    linkedinlogo
+    linkedinlogo,
+    loader,
+    airbnb_logo,
+    dropbox_icon,
+    Fedex_logo,
+    hubspot_logo,
+    cyber_security,
+    artifical_i,
+    web_dev_icon,
+    blog_1,
+    blog_2,
+    blog_3
+
 }
 
+
+export const samplePosts = [  
+  {  
+    id: "1",  
+    title: "How To Write an Interview Reschedule Email",  
+    author: "Sarah Harding",  
+    date: "06 September",  
+    imageUrl: assets.blog_1,  
+  },  
+  {  
+    id: "2",  
+    title: "12 Peer Interview Questions and Answers",  
+    author: "Sarah Harding",  
+    date: "06 September",  
+    imageUrl: assets.blog_2,  
+  },  
+  {  
+    id: "3",  
+    title: "Senior Full Stack, Creator Success Full Time",  
+    author: "Sarah Harding",  
+    date: "06 September",  
+    imageUrl: assets.blog_3,  
+  },  
+  // you can add more posts if needed  
+];
+
+
+export const brand_names = [
+  {
+    id: 1,
+    logo: assets.hubspot_logo
+  },
+  {
+    id: 1,
+    logo: assets.upwork
+  },
+  {
+    id: 1,
+    logo: assets.indeed
+  },
+  {
+    id: 1,
+    logo: assets.googleLogo
+  },
+  {
+    id: 1,
+    logo: assets.slack
+  },
+  {
+    id: 1,
+    logo: assets.airbnb_logo
+  }
+]
+
+
+export const category = [
+  {
+    id: 1,
+    icon: assets. cyber_security,
+    title: 'Web Development',
+    vacancy: 120
+  },
+  {
+    id: 1,
+    icon: assets.artifical_i,
+    title: 'Web Development',
+    vacancy: 120
+  },
+  {
+    id: 1,
+    icon: assets.web_dev_icon,
+    title: 'Web Development',
+    vacancy: 120
+  },
+  {
+    id: 1,
+    icon: assets. cyber_security,
+    title: 'Web Development',
+    vacancy: 120
+  },
+  {
+    id: 1,
+    icon: assets. cyber_security,
+    title: 'Web Development',
+    vacancy: 120
+  },
+  {
+    id: 1,
+    icon: assets. cyber_security,
+    title: 'Web Development',
+    vacancy: 120
+  },
+    {
+    id: 1,
+    icon: assets. cyber_security,
+    title: 'Web Development',
+    vacancy: 120
+  },
+
+  {
+    id: 1,
+    icon: assets. cyber_security,
+    title: 'Web Development',
+    vacancy: 120
+  },
+
+]
 
 export const contact_data = [
     { 

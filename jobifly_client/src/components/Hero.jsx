@@ -3,9 +3,9 @@ import {assets} from '../assets/assets'
 
 function Hero() {
   return (
-    <div className='hero_background w-100% h-[90vh] ' >
+    <div className='bg-[#FFF9F3] w-100% h-[115vh] ' >
         <div className='container flex justify-between h-full'>
-            <div className='flex_item h-full'>
+            <div className='flex_item h-full mt-32 w-[55%] '>
                 <h1 className='flex_text text-5xl font-bold'>Find Your Perfect Dream Job With <span className='text-amber-700'>JobiFly</span></h1>
                 <p className=''>Looking for a new job can be both exciting and daunting. Navigating the job market involves exploring various avenues, including online job boards.</p>
                 <div className='hero_search flex gap-6 justify-between bg-amber-900 rounded-md'>
@@ -23,7 +23,7 @@ function Hero() {
                   <button className='bg-amber-50 text-amber-900 p-2 rounded-md w-2/12'>Search</button>
                 </div>
             </div>
-            <div className='flexitem'>
+            <div className='flexitem w-[45%] flex justify-end items-center'>
                 <img src={assets.hero_img} alt=""  className='w-[700px] h-[450px]'/>
             </div>
         </div>

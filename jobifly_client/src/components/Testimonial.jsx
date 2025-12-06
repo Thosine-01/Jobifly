@@ -10,8 +10,8 @@ import 'swiper/css/navigation';
 
 export default function Testimonial() {
   return (
-    <div className='container pt-20 pb-20'>
-        <div className='flex justify-center'>
+    <div className='container'>
+        <div className='flex justify-center mt-40'>
           <h1 className='text-3xl font-bold'>What Our Customers are Saying</h1>
         </div>
 
@@ -30,7 +30,7 @@ export default function Testimonial() {
           modules={[Autoplay, Pagination, Navigation]}
         >
           <SwiperSlide className=''>
-            <div className='flex flex-col items-center justify-center mt-14 space-y-6 0'>
+            <div className='flex flex-col items-center justify-center mt-10 space-y-6 0'>
               <Quote size={50} color={'#7b3306'}/>
               <p className='text-center w-8/12'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde doloremque excepturi consequuntur laudantium omnis optio nihil laborum architecto magni error explicabo hic illum repellendus amet voluptatem, exercitationem placeat at corrupti incidunt totam. Tempora, officiis assumenda iusto ullam accusamus facere deleniti.</p>
               <div className='flex gap-5 items-center justify-center mt-4'> 
